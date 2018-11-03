@@ -36,25 +36,32 @@ $ pip install image
 ```
 
 ### Step 3: 
-Download the zip of this repo by pressing the the green "clone or download" green button on this page. 
+Download the zip of this repo by pressing the the green "clone or download" 
+green button on this page. 
 You can also run the command `git clone` with this URL to download the repo as well.
 
 ### Step 4: 
 Go back to your terminal and execute the command `cd escape_the_room`. 
 Then execute the command, `python3 escape.py`to run the program.
-  
+
+```bash
+$ cd escape_the_room
+$ python3 escape.py
+```
+
 ---
 ## Keyboard Commands
 | Command | Description |
 | --- | --- |
 | Control + b | Starts the game by turning on the timer |
 | Control + h | Toggle the hint window |
-| Control + 0 | Set background to all red label and clear any existing labels |
 | Control + 1 | Turn on fuel labels |
 | Control + 2 | Turn on generator labels |
 | Control + 3 | Turn on steam labels |
 | Control + 4 | Turn on water labels |
 | Control + 5 | Set background to all green labels |
+| Control + 9 | Set background to all black and clear any existing labels |
+| Control + 0 | Set background to all red labels |
 | Control + r | Resets the clock|
 | Control + s | Stops the clock |
 
