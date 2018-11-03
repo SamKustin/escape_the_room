@@ -1,5 +1,5 @@
 # :unlock: Escape the Room: Nuclear Meltdown
-![Escape the Room Dashboard](https://github.com/samkustin/escape_the_room/blob/master/nuclear_screenshot.png)
+![Escape the Room Dashboard](https://github.com/samkustin/escape_the_room/blob/master/images/nuclear_screenshot.png)
 ---
 ## About
 This is a dashboard for an Escape the Room game created by the CoRE 
@@ -11,9 +11,11 @@ provide hints and tell the story of the game.
 You are in an intern in Binghamton Unviersity's nuclear powerplant. 
 All the senior engineers are on lunch break when you and your team of interns
 were trapped inside the control room. Someone has hacked into the systems and 
-has shut down all power. You must stop the facility from exploding and escape 
-from the room. The only way to get safely back home is to solve puzzles and 
-manually restart the power. Time is running out, you only have 30 minutes.
+has shut down all power. You must stop the nuclear powerplant from exploding 
+by stabilizing all systems and restoring power to the entire facility. 
+Only once all power has been restored may the interns escape from the room. 
+The only way to get safely back home is to solve puzzles and manually 
+restart the power. Time is running out, you only have 30 minutes.
 
 ## Getting Started:
 Please complete the following steps:
@@ -60,3 +62,8 @@ Then execute the command, `python3 escape.py`to run the program.
 ## Creators
 * Samantha Kustin
 * Adam Nieto
+
+---
+## Previous Escape The Room Events:
+* 2017: Lost in Space - https://github.com/adamnieto/escape-the-room
+* 2016: Edgar Allan Poe - https://github.com/aorella1/CoRE-Escape-The-Room-Countdown
